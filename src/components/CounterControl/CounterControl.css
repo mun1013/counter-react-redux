@@ -1,0 +1,18 @@
+.CounterControl {
+    width: 150px;
+    margin: 16px;
+    padding: 20px;
+    background-color: #5eaaa8;
+    box-sizing: border-box;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #a3d2ca;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.CounterControl:hover,
+.CounterControl:active {
+    background-color: #ffefcf;
+}
